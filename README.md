@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-kv&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-kv" /> </p>
 
-- 🔭 I’m currently working on **E-Authentication using OTP and QR.**
-
 - 🌱 I’m currently learning **Problem Solving, DP.**
 
 - 💬 Ask me about **Anything I'll Help, If I can.**
